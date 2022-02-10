@@ -1,0 +1,53 @@
+@media only screen and (max-width: 600px){}
+body
+{
+font-family: 'Roboto', sans-serif;
+}
+#title
+{
+background-color:white;
+text-align:center;
+border-radius: 50px;
+height: 600px;
+position: relative;
+top: 38px;
+}
+#container
+{
+text-align:center;
+padding:32px;
+background-color:#26b54f
+}
+p
+{
+margin:30px;
+}
+.small
+{
+color:black;
+font-size:15px;
+font-weight:bold;
+}
+.big
+{
+color:white;
+font-weight:bold;
+}
+footer
+{
+font-weight:bold;
+text-align:center;
+background-color:white;
+font-size:13px;
+padding:10px;
+}
+hr
+{
+width:250px;
+color:white;
+}
+#title > h1
+{
+font-weight:bold;
+font-size:45px;
+}
